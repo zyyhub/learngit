@@ -6,3 +6,4 @@ Creating a new branch is qucik and simple.
 use no ff merge.
 ecommit2.
 ecommit3.
+dddcommit1
