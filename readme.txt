@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is qucik and simple.
 use no ff merge.
 ecommit2.
+ecommit3.
