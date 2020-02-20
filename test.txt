@@ -1,2 +1,3 @@
 test the first push conmman.
 e/commit1.
+d/push first.
